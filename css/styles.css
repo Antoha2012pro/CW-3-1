@@ -1,0 +1,46 @@
+/* .grandfather {
+    background-color: red;
+    color: white;
+    padding: 50px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.son {
+    background-color: orange;
+    color: white;
+    padding: 50px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.grandson {
+    background-color: yellow;
+    color: white;
+    padding: 50px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.grandfather:hover {
+    opacity: 0.8;
+}
+
+.son:hover {
+    opacity: 0.8;
+}
+
+.grandson:hover {
+    opacity: 0.8;
+} */
+
+
+.ul {
+    padding: 100px;
+    background-color: red;
+}
+
+li {
+    padding: 10px;
+    background-color: green;
+}
